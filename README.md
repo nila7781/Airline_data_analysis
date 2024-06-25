@@ -7,14 +7,14 @@ A company operates a diverse fleet of aircraft ranging from small business jets 
 
 **Main Challenges**
 ```
-    **Stricter Environmental Regulations:** Increased costs and operational constraints due to tougher environmental laws.
-    **Higher Flight Taxes:** Elevated costs due to increased taxation aimed at addressing environmental concerns.
-    **Increased Labor Costs:** Higher costs and turnover rates due to a tight labor market.
+    Stricter Environmental Regulations:  Increased costs and operational constraints due to tougher environmental laws.
+    Higher Flight Taxes:  Elevated costs due to increased taxation aimed at addressing environmental concerns.
+    Increased Labor Costs:  Higher costs and turnover rates due to a tight labor market.
 ```
     
 **Objectives**
 ```
-   **Increase Occupancy Rate:** Boost the average profit per seat by increasing the occupancy rate, mitigating the impact of rising  costs.
-   **Improve Pricing Strategy:** Develop a pricing strategy that considers market changes and customer preferences to attract and retain customers.
-   **Enhance Customer Experience:** Provide a seamless and convenient customer experience to increase loyalty in a competitive industry.
+   Increase Occupancy Rate:  Boost the average profit per seat by increasing the occupancy rate, mitigating the impact of rising  costs.
+   Improve Pricing Strategy:  Develop a pricing strategy that considers market changes and customer preferences to attract and retain customers.
+   Enhance Customer Experience:  Provide a seamless and convenient customer experience to increase loyalty in a competitive industry.
 ```
